@@ -16,4 +16,8 @@ Another is `82 6C 82 72 20 82 6F 83 53 83 56 83 62 83 4E`(ＭＳ Ｐゴシック
 
 Everything just looks like working fine after patching(with Locale Emulator).
 
+And the file in this repo is patched from Saihate no Ima complete (最果てのイマ COMPLETE) version.
+
+The solution may be the same for other versions but I have never tested.
+
 ![](https://i.loli.net/2018/09/17/5b9e7f342b4dd.png)
