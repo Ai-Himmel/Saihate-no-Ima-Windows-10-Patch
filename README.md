@@ -2,7 +2,7 @@
 
 Some friends have told me that Saihate no Ima can be only run in Windows 10 in Japanese language.
 
-So I took some time to debug and finally found out the problem.
+So I took some time to debug and finally found out the reason.
 
 It is because certain function in this game, which aim to get the font name from the system, returns a normal string like `MS Gothic`.And the program compares it with a SHIFT_JIS string like `ＭＳ ゴシック`.
 
