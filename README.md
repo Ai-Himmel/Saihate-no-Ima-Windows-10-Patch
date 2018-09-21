@@ -20,4 +20,6 @@ And the file in this repo is patched from Saihate no Ima complete (最果ての�
 
 The solution may be the same for other versions but I have never tested.
 
+If you could offer the binary file, I'd be glad to help to patch it.
+
 ![](https://i.loli.net/2018/09/17/5b9e7f342b4dd.png)
